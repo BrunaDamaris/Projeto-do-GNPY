@@ -14,4 +14,4 @@ Editado o arquivo edfa_example_network para substituir os std_low_gain pelo new_
 
 Para acessar o path na função que o Allan tá fazendo: self.params.power_mask_path.
 
-No _nf(do EDFA no elements.py) foi adicionado um elif na linha 706 para o novo type_def. 
+No interpol_params(do EDFA no elements.py) foi adicionado um elif na linha 670 para o novo type_def. 
